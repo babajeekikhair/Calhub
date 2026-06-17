@@ -1,0 +1,10 @@
+{
+  "name": "Online Calculator Hub",
+  "description": "A comprehensive, modern web portal offering free, instant-result calculators for finance, mathematics, health, dates, unit conversions, and everyday utility needs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
